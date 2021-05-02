@@ -1,8 +1,22 @@
+<p style="text-align:center">
+<a href="mailto:thebrickdwarf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans-48872a20a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
+Howdy, the name's Bear. I am a full-stack web developer, writer, and gaming enthusiast attending Ohio State University. I approach each project with the aim of writing clear, human-readable code that provides a clean and enjoyable experience for the user. When not working on a project, I spend my time weightlifting, brewing ciders, and getting lost on Wikipedia.
 
-<a href="mailto:thebrickdwarf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/bear-evans-48872a20a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🐻 More Bear Bites 🐻
+* I am currently attending the OSU Digital Bootcamp.
+* I write about my coding adventures on my blog. This is a placeholder while I clean it up.
+* I even have a resume! This is a placeholder, though.
 
-Howdy, the name's Bear. I am a full-stack web developer, writer, and gaming enthusiast attending Ohio State University.
-
-<h2>Languages and Tools I Use</h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+## ⚒️ Languages and Tools I Use ⚒️
+![Windows Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue&logo=windows) 
+![Ubuntu Badge](https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=orange&logo=ubuntu)
+![HTML5 Badge](https://img.shields.io/static/v1?label=Code&message=HTML5&color=orange&logo=html5) 
+![CSS3 Badge](https://img.shields.io/static/v1?label=Code&message=CSS3&color=blue&logo=css3) 
+![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow&logo=javascript) 
+![PHP Badge](https://img.shields.io/static/v1?label=Code&message=PHP&color=red&logo=php)
+![C# Badge](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&logo=c-sharp)
+![Java Badge](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&logo=java)
+![VS Code Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual-studio-code)
+![Blender](https://img.shields.io/static/v1?label=Tool&message=Blender&color=orange&logo=blender)
