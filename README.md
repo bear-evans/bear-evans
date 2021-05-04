@@ -1,4 +1,8 @@
-<p style="text-align:center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/brickdwarf/brickdwarf/main/bear-logo.svg">
+</p>
+
+<p align="center">
 <a href="mailto:thebrickdwarf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans-48872a20a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
