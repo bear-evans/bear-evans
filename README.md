@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/brickdwarf/brickdwarf/main/bear-logo.svg">
+<img src="bear-banner.png">
 </p>
 
 <p align="center">
-<a href="mailto:thebrickdwarf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans-48872a20a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bear-evans@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 Howdy, the name's Bear. I am a full-stack web developer, writer, and gaming enthusiast attending Ohio State University. I approach each project with the aim of writing clear, human-readable code that provides a clean and enjoyable experience for the user. When not working on a project, I spend my time weightlifting, brewing ciders, and slowly driving plants to suicide under the guise of gardening.
