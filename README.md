@@ -8,12 +8,12 @@
 
 Bear is a full-stack web developer, writer, and gaming enthusiast attending Ohio State University. His ideal project includes crisp design, well-commented code, and fun problems to solve. When not writing code, he spends his time weightlifting, brewing ciders, and talking about himself in the third person.
 
-His portfolio can be found <a href="https://bear-evans.github.io/bear-evans-portfolio/">here</a>.
+His portfolio can be found <a href="https://bear-evans.github.io/portfolio/">here</a>.
 
 ## 🐻 More Bear Bites 🐻
-* I am currently attending the OSU Digital Bootcamp.
-* I write about my coding adventures on my blog. This is a placeholder while I clean it up.
-* I even have a resume! This is a placeholder, though.
+* Bear is currently attending the OSU Digital Bootcamp.
+* Bear writes about his coding adventures on his blog.
+* He even has a <a href="https://bear-evans.github.io/portfolio/assets/Resume.pdf">resume</a>!
 
 ## ⚒️ Languages and Tools I Use ⚒️
 ![Windows Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue&logo=windows) 
