@@ -12,7 +12,7 @@ His portfolio can be found <a href="https://bear-evans.github.io/portfolio/">her
 
 ## 🐻 More Bear Bites 🐻
 * Bear is currently attending the OSU Digital Bootcamp.
-* Bear writes about his coding adventures on his blog.
+* Bear writes about his coding adventures on his <a href="https://dev.to/bearevans">blog</a>.
 * He even has a <a href="https://bear-evans.github.io/portfolio/assets/Resume.pdf">resume</a>!
 
 ## ⚒️ Languages and Tools I Use ⚒️
