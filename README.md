@@ -11,17 +11,18 @@ Bear is a full-stack web developer, writer, and gaming enthusiast attending Ohio
 His portfolio can be found <a href="https://bear-evans.github.io/portfolio/">here</a>.
 
 ## 🐻 More Bear Bites 🐻
-* Bear is currently attending the OSU Digital Bootcamp.
-* Bear writes about his coding adventures on his <a href="https://dev.to/bearevans">blog</a>.
-* He even has a <a href="https://bear-evans.github.io/portfolio/assets/Resume.pdf">resume</a>!
+
+- Bear is currently attending the OSU Digital Bootcamp.
+- Bear writes about his coding adventures on his <a href="https://bear-evans.hashnode.dev/">blog</a>.
+- He even has a <a href="https://bear-evans.github.io/portfolio/assets/Resume.pdf">resume</a>!
 
 ## ⚒️ Languages and Tools I Use ⚒️
-![Windows Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue&logo=windows) 
+
+![Windows Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue&logo=windows)
 ![Ubuntu Badge](https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=orange&logo=ubuntu)
-![HTML5 Badge](https://img.shields.io/static/v1?label=Code&message=HTML5&color=orange&logo=html5) 
-![CSS3 Badge](https://img.shields.io/static/v1?label=Code&message=CSS3&color=blue&logo=css3) 
-![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow&logo=javascript) 
-![PHP Badge](https://img.shields.io/static/v1?label=Code&message=PHP&color=red&logo=php)
+![HTML5 Badge](https://img.shields.io/static/v1?label=Code&message=HTML5&color=orange&logo=html5)
+![CSS3 Badge](https://img.shields.io/static/v1?label=Code&message=CSS3&color=blue&logo=css3)
+![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow&logo=javascript)
 ![C# Badge](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&logo=c-sharp)
 ![Java Badge](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&logo=java)
 ![VS Code Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual-studio-code)
