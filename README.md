@@ -23,6 +23,7 @@ His portfolio can be found <a href="https://bear-evans.github.io/portfolio/">her
 ![HTML5 Badge](https://img.shields.io/static/v1?label=Code&message=HTML5&color=orange&logo=html5)
 ![CSS3 Badge](https://img.shields.io/static/v1?label=Code&message=CSS3&color=blue&logo=css3)
 ![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow&logo=javascript)
+![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Typescript&color=blue&logo=typescript)
 ![C# Badge](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&logo=c-sharp)
 ![Java Badge](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&logo=java)
 ![VS Code Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual-studio-code)
