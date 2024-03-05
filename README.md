@@ -6,25 +6,31 @@
 <a href="mailto:bear-evans@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Bear is a full-stack web developer, writer, and gaming enthusiast from Ohio State University. His ideal project includes crisp design, well-commented code, and fun problems to solve. When not writing code, he spends his time weightlifting, brewing ciders, and talking about himself in the third person.
+Bear is an American developer who loves making applications focused on utility or entertainment. When not building passion-project games in Unity, he builds utilities for himself and others to use. He enjoys learning about code patterns and architecture.
 
-His portfolio can be found <a href="https://bear-evans.github.io/portfolio/">here</a>.
+Bear is diligently working toward his (possibly somewhat unrealistic) dream of becoming a successful indie game developer, and enjoying every step of the journey.
 
 ## 🐻 More Bear Bites 🐻
 
-- Bear obtained a certificate from the OSU Digital Bootcamp.
-- Bear writes about his coding adventures on his <a href="https://bear-evans.hashnode.dev/">blog</a>.
-- He even has a <a href="https://docs.google.com/document/d/1OMPMXa_rnMUbPA0EmieLSSL9zN1gF_hok8jmKR1xD0Y/edit?usp=sharing">resume</a>!
+- He started his coding journey with a web development bootcamp with Ohio State University.
+- He has significant experience as a cook, too!
+- Bear writes about his coding adventures in his [blog](https://dev.to/bearevans) sometimes.
 
-## ⚒️ Languages and Tools I Use ⚒️
+## ⚒️ Tools Used and Learned ⚒️
 
-![Windows Badge](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue&logo=windows)
-![Ubuntu Badge](https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=orange&logo=ubuntu)
-![HTML5 Badge](https://img.shields.io/static/v1?label=Code&message=HTML5&color=orange&logo=html5)
-![CSS3 Badge](https://img.shields.io/static/v1?label=Code&message=CSS3&color=blue&logo=css3)
-![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Javascript&color=yellow&logo=javascript)
-![Javascript Badge](https://img.shields.io/static/v1?label=Code&message=Typescript&color=blue&logo=typescript)
-![C# Badge](https://img.shields.io/static/v1?label=Code&message=C%23&color=purple&logo=c-sharp)
-![Java Badge](https://img.shields.io/static/v1?label=Code&message=Java&color=orange&logo=java)
-![VS Code Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue?logo=visual-studio-code)
-![Blender](https://img.shields.io/static/v1?label=Tool&message=Blender&color=orange&logo=blender)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Linux" width="45" height="45"/>
+
