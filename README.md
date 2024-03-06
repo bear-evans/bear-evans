@@ -10,11 +10,13 @@ Bear is an American developer who loves making applications focused on utility o
 
 Bear is diligently working toward his (possibly somewhat unrealistic) dream of becoming a successful indie game developer, and enjoying every step of the journey.
 
+When not working on code, Bear enjoys weightlifting, brewing ciders, walking the beach, and talking about himself in the third person.
+
 ## 🐻 More Bear Bites 🐻
 
 - He started his coding journey with a web development bootcamp with Ohio State University.
 - He has significant experience as a cook, too!
-- Bear writes about his coding adventures in his [blog](https://dev.to/bearevans) sometimes.
+- Bear writes about his coding adventures in his [blog](https://bear-evans.hashnode.dev/) sometimes.
 
 ## ⚒️ Tools Used and Learned ⚒️
 
