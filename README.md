@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:bear-evans@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/bear-evans/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bear-evans@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 Bear is an American developer who loves making applications focused on utility or entertainment. When not building passion-project games in Unity, he builds utilities for himself and others to use. He enjoys learning about code patterns and architecture.
